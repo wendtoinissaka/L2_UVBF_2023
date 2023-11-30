@@ -19,8 +19,12 @@ public class Exercice_2 {
                 System.out.print("#");
             }
             System.out.println();
+            // positionSpace--;
             positionSpace--;
+
         }
+
+
 
     }
 }
