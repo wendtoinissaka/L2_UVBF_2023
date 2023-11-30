@@ -16,11 +16,19 @@ public class Exercice_2 {
                 if (j==positionSpace){
                     System.out.print(" ");
                 }
+                // System.out.print("#");
                 System.out.print("#");
             }
             System.out.println();
+            // positionSpace--;
+            
             positionSpace--;
+
+
+
         }
+
+
 
     }
 }
